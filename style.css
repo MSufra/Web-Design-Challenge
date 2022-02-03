@@ -1,0 +1,58 @@
+body {background-color:rgb(48, 48, 48)
+}
+
+p{text-align: left;
+  font-size: 1rem
+}
+
+.container{
+  background: #fff
+}
+
+.box {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 5px;
+  color: black;
+  background: #fff;
+  border: 10px;
+  overflow: auto;
+  
+}
+
+.box_comp{
+  text-align: center;
+  background: #fff;
+  width: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.main_img {  
+  max-width: 100%;  
+  height: auto;  
+  float:left
+}
+
+.thumbnail{
+  width: 50%;  
+  height: 50%;
+  float: left;
+  padding: 10px;
+ 
+}
+
+h1{
+  color:cornflowerblue
+}
+
+h2{
+  color:cornflowerblue
+}
+
+.navbar_h{
+  color:cornflowerblue
+}
